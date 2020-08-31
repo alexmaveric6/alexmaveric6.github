@@ -1,0 +1,11 @@
+p, h1 { 
+    color: darkblue
+}
+#container {
+    background-color: gold;
+    color: white;
+    padding: 5px;
+}
+.color {
+    color: darkblue;
+}
